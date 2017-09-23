@@ -31,7 +31,7 @@ $ email-chk --help
 ## Related
 
 - [email-chk](https://github.com/brandon93s/email-chk) - API for this module
-- [email-chk-cli](https://github.com/brandon93s/email-chk-lambda) - Lambda fucntion for this module
+- [email-chk-lambda](https://github.com/brandon93s/email-chk-lambda) - Lambda function for this module
 
 ## License
 
