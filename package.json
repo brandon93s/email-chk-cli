@@ -1,6 +1,6 @@
 {
   "name": "email-chk-cli",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Checks if an email is valid & real by contacting the associated remote mail server",
   "main": "cli.js",
   "repository": "brandon93s/email-chk-cli",
