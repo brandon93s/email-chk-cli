@@ -11,9 +11,9 @@ const cli = meow(`
       $ email-chk <email>
 
     Options
-      timeout - Timeout in ms
-      host    - Domain of originating smtp server
-      from    - Email originating the request 
+      -t, --timeout   Timeout in ms
+      -h, --host      Domain of originating smtp server
+      -f, --from      Email originating the request 
 
     Examples
       $ email-chk noreply@github.com

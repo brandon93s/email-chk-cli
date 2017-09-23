@@ -1,7 +1,7 @@
 {
   "name": "email-chk-cli",
   "version": "0.1.0",
-  "description": "Check if an email is valid & real",
+  "description": "Checks if an email is valid & real by contacting the associated remote mail server",
   "main": "cli.js",
   "repository": "brandon93s/email-chk-cli",
   "keywords": [
@@ -10,7 +10,9 @@
     "verify email",
     "email exists",
     "is real email",
-    "email is real"
+    "email is real",
+    "email validator",
+    "email validation"
   ],
   "author": "Brandon Smith",
   "license": "MIT",
